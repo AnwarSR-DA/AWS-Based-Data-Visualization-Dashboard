@@ -43,11 +43,8 @@ The project leverages **AWS infrastructure**:
 - Sample CSV files for testing.
 
 ## Screenshots 📸
-### Dashboard Features:
-- **Correlation Heatmap** 🔥
-- **Boxplot** 📦
-- **Histogram** 📈
-- **Pie Chart** 🥧
+![Dashboard Features Preview](images/image.png)
+![Dashboard Features Preview](images/image1.png)
 
 ## Key Takeaways 💡
 - **AWS Infrastructure**: Configured and managed services like EC2 and S3.
