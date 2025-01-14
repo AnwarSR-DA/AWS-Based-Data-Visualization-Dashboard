@@ -43,6 +43,17 @@ The project leverages **AWS infrastructure**:
 - Sample CSV files for testing.
 
 ## Screenshots 📸
+### Backend
+![Dashboard Features Preview](images/flaskpreview.png)
+![Dashboard Features Preview](images/flaskpreview1.png)
+![Dashboard Features Preview](images/flaskpreview2.png)
+
+### Frontend
+![Dashboard Features Preview](images/HTMLpreview.png)
+
+### Dashboard Features:
+![Dashboard Features Preview](images/uplaod.png)
+![Dashboard Features Preview](images/uplaod1.png)
 ![Dashboard Features Preview](images/image.png)
 ![Dashboard Features Preview](images/image1.png)
 
