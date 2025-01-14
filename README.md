@@ -52,8 +52,8 @@ The project leverages **AWS infrastructure**:
 ![Dashboard Features Preview](images/HTMLpreview.png)
 
 ### Dashboard Features:
-![Dashboard Features Preview](images/uplaod.png)
-![Dashboard Features Preview](images/uplaod1.png)
+![Dashboard Features Preview](images/upload.png)
+![Dashboard Features Preview](images/upload1.png)
 ![Dashboard Features Preview](images/image.png)
 ![Dashboard Features Preview](images/image1.png)
 
